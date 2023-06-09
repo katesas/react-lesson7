@@ -1,0 +1,36 @@
+.les4{
+    width: 300px;
+    margin: auto;
+    background-color:aquamarine;
+    padding-top: 20px;
+    padding-bottom: 60px;
+    border: 2px solid black;
+    border-radius: 10%;
+    
+}
+h1{
+    margin: auto;
+    text-align: center;
+}
+p{
+    margin: auto;
+    text-align: center;
+}
+h2{
+    color:rebeccapurple;
+}
+.but{
+    margin: auto;
+    text-align: center;
+    width: 300px;
+    margin: auto;
+    text-align: center;
+}
+/* button {
+    width: 300px;
+    margin: auto;
+    text-align: center;
+} */
+.but:hover {
+    background-color: bisque;
+}
